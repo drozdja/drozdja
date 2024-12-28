@@ -1,5 +1,4 @@
 ## Hi there 👋
-======
 I'm a recent graduate of the JEMARO double degree programme (Japan-Europe Master on Advanced Robotics). I'm gonna upload more projects soon :)
 <!--
 **drozdja/drozdja** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
